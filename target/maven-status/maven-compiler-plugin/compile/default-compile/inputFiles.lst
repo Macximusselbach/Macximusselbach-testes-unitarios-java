@@ -1,0 +1,9 @@
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/domain/Aluno.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/domain/Mensagens.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/exceptions/ValidacaoException.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/Main.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/domain/HistoricoChamadas.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/services/ResponderChamadaService.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/repository/HistoricoRepository.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/domain/Chamada.java
+/home/maxselbach/Desktop/testes/src/main/java/br/com/selbach/repository/ChamadaRepository.java
